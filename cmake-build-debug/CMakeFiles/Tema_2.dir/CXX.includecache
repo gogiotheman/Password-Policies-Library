@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sgogi/OneDrive/Desktop/ETTI - AN II/Sem I/POO/Tema_2/main.cpp
+iostream
+-
+string
+-
+vector
+-
+
